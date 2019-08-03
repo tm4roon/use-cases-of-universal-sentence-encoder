@@ -1,7 +1,5 @@
 # Application of Universal Sentence Encoder
 
-## 概要
-
 TensorFlow hubで公開されているUniversal Sentence Encoderを用いて、
 
 - [文間類似度の計算](https://github.com/marucha80t/application_of_universal_sentence_encoder/blob/master/sentence_similarity.ipynb)
