@@ -1,4 +1,4 @@
-# Application of Universal Sentence Encoder
+# Use-cases of Google's Universal Sentence Encoder
 
 TensorFlow hubで公開されているUniversal Sentence Encoderを用いて、
 
