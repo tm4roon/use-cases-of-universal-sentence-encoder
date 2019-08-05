@@ -3,7 +3,7 @@
 TensorFlow hubで公開されているUniversal Sentence Encoderを用いて、
 
 - [文間類似度の計算](https://github.com/marucha80t/application_of_universal_sentence_encoder/blob/master/sentence_similarity.ipynb)
-- [教師なし抽出型要約](https://github.com/marucha80t/application_of_universal_sentence_encoder/blob/master/unsupervised_extractive_summarization.ipynb)
+- [教師なし抽出型要約](https://github.com/marucha80t/use-cases_of_universal_sentence_encoder/blob/master/unsupervised_extractive_summarization_with_use.ipynb)
 
 を行う。
 <br>
